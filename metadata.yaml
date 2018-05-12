@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37629
     wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42152#The-Mormon-BattalionIts-History-and-Achievements
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2013-02-21'
 gutenberg_type: Text
